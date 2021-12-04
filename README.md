@@ -1,2 +1,2 @@
 # computer-vision-nyu
-Assignments of Computer Vision class at NYU Courant (Instructor: Rob Fergus) Fall 21
+Computer Vision assignments for CV course at NYU Courant (Instructor: Rob Fergus) Fall 21
